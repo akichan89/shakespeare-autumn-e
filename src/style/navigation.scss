@@ -16,7 +16,7 @@
       a {
         margin-left: 15px;
         cursor: pointer;
-        color: $offwhite;
+        color: $eggplant;
         transition: 0.5s ease-in-out;
   
         &:hover {
@@ -46,11 +46,11 @@
   
 
   a {
-      color: $offwhite;
+      color: $sage;
       text-decoration: none;
 
       &:hover {
-          color: $offwhite;
+          color: $eggplant;
           border-bottom: 1px goldenrod;
           }
   }

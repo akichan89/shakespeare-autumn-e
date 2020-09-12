@@ -10,6 +10,7 @@
       align-items: center;
       flex-direction: column;
       padding: 100px;
+      color: $offwhite;
   
       .contact-bullet-points {
         display: grid;
@@ -22,7 +23,7 @@
   
           .icon {
             font-size: 2em;
-            color: $teal;
+            color: goldenrod;
           }
   
           .text {

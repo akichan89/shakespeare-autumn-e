@@ -53,7 +53,7 @@ const NavigationComponent = props => {
 
         <div className="nav-link-wrapper">
           <NavLink to="/blog" activeClassName="nav-link-active">
-            Blog
+            Projects
           </NavLink>
         </div>
 
